@@ -5,8 +5,10 @@ This project demonstrate Web Scraping on Craiglist website. The output file (.cs
 
 ## Usage:
 
-To run the project, type in the command line: scrapy crawl :jobfilename -o :resultfilename.csv
-
+To run the project, type in the command line: 
+```
+scrapy crawl :jobfilename -o :resultfilename.csv
+```
 ## Specifications:
 
 The libraries used in this project:
